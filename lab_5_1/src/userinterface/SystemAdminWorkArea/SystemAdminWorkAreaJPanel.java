@@ -35,7 +35,7 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
     public void populateTree(){
         DefaultTreeModel model=(DefaultTreeModel)jTree.getModel();
        // Add the code for draw your system structure shown by JTree
-       
+        System.out.println("这里之后要删了，这个tree没用");
         model.reload();
     }
     /**
