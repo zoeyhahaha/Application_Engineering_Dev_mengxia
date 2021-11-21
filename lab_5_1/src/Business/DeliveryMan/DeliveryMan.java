@@ -10,5 +10,5 @@ package Business.DeliveryMan;
  * @author harold
  */
 public class DeliveryMan {
-    
+    private String username;
 }

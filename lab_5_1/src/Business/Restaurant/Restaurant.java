@@ -10,5 +10,5 @@ package Business.Restaurant;
  * @author harold
  */
 public class Restaurant {
-    
+    private String username;
 }
