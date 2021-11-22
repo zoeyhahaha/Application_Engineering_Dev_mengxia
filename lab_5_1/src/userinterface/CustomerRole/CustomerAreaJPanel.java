@@ -35,7 +35,7 @@ public class CustomerAreaJPanel extends javax.swing.JPanel {
     }
     
     public void populateRequestTable(){
-        
+        System.out.println("");
     }
 
     

@@ -131,6 +131,7 @@ public class MainJFrame extends javax.swing.JFrame {
     private void loginJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loginJButtonActionPerformed
         // Get user name
         System.out.println("hello Netbeans");
+        System.out.println("");
        
     }//GEN-LAST:event_loginJButtonActionPerformed
 
